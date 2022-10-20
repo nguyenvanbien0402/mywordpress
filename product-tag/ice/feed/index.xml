@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ice &#8211; My Webpage</title>
+	<atom:link href="https://nguyenvanbien0402.github.io/mywordpress/product-tag/ice/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenvanbien0402.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Thu, 20 Oct 2022 06:45:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Water Bottle</title>
+		<link>https://nguyenvanbien0402.github.io/mywordpress/product/water-bottle/</link>
+					<comments>https://nguyenvanbien0402.github.io/mywordpress/product/water-bottle/#respond</comments>
+		
+		<dc:creator><![CDATA[Nguyenvanbien]]></dc:creator>
+		<pubDate>Thu, 20 Oct 2022 06:45:41 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyenvanbien0402.github.io/mywordpress/?post_type=product&#038;p=304</guid>
+
+					<description><![CDATA[Investing in a reusable water bottle that you can refill throughout the day. Carrying one around with you will make you more likely to drink up.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-37e7dc3 elementor-widget elementor-widget-text-editor" data-id="37e7dc3" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<p>Although the legendary Double Burger really needs no introduction, please allow us… Tucked in between three soft buns are two all-beef patties, cheddar cheese, ketchup, onion, pickles and iceberg lettuce. Hesburger’s own paprika and cucumber mayonnaise add the crowning touch. Oh baby!</p>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-7b84bf7 elementor-widget elementor-widget-text-editor" data-id="7b84bf7" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<p><strong>Ingredients:</strong> Dr. Praeger’s Black Bean Burger, Focaccia bun, Balsamic Vinaigrette, Pesto, Tomato, Swiss Cheese</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenvanbien0402.github.io/mywordpress/product/water-bottle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
